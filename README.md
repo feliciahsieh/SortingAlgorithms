@@ -50,13 +50,13 @@ The output will look similar to the following:
 
 <p align="center"><img src="HeapsortExample.png" width="700"></p>
 
-You run EVERY sorting algorithm once:
+EVERY sorting algorithm can be run once with:
 
 ```
 ./runsort.py
 ```
 
-or run EACH sorting algorithm as needed:
+or EACH sorting algorithm can be run as needed:
 
 ```
 ./bubblesort.py
