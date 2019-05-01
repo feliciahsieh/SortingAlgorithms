@@ -18,30 +18,14 @@ This repository contains sorting algorithms for
 
 | Algorithm      | Best    | Average |  Worst  |
 |----------------|---------|---------|---------|
-| Bubble Sort    | n       |   n^2   |   n^2   |
-| Heap Sort      | nlog(n) | nlog(n) | nlog(n) |
-| Insertion Sort | n       | n^2     | n^2     |
-| Merge Sort     | n       | n^2     | n^2     |
-| Quick Sort1    | nlog(n) | nlog(n) | n^2     |
-| Quick Sort2    | nlog(n) | nlog(n) | n^2     |
-| Selection Sort | n^2     | n^2     | n^2     |
-| Shell Sort     | nlog(n) | depends | n^2     |
-
-* [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
-
-* [Heap sort](https://en.wikipedia.org/wiki/Heapsort)
-
-* [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
-
-* [Merge sort](https://en.wikipedia.org/wiki/Merge_sort)
-
-* [Quicksort1 (the traditional way)](https://en.wikipedia.org/wiki/Quicksort)
-
-* [Quicksort2 (using python lists)](https://en.wikipedia.org/wiki/Quicksort)
-
-* [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
-
-* [Shellsort](https://en.wikipedia.org/wiki/Shellsort)
+| [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) | n       |   n^2   |   n^2   |
+| [Heap sort](https://en.wikipedia.org/wiki/Heapsort)      | nlog(n) | nlog(n) | nlog(n) |
+| [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) | n       | n^2     | n^2     |
+| [Merge sort](https://en.wikipedia.org/wiki/Merge_sort)     | n       | n^2     | n^2     |
+| [Quicksort1 (the traditional way)](https://en.wikipedia.org/wiki/Quicksort)    | nlog(n) | nlog(n) | n^2     |
+| [Quicksort2 (using python lists)](https://en.wikipedia.org/wiki/Quicksort)    | nlog(n) | nlog(n) | n^2     |
+| [Selection sort](https://en.wikipedia.org/wiki/Selection_sort) | n^2     | n^2     | n^2     |
+| [Shellsort](https://en.wikipedia.org/wiki/Shellsort)     | nlog(n) | depends | n^2     |
 
 ## Requirements
 * Ubuntu 14.04 LTS
