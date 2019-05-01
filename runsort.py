@@ -8,11 +8,3 @@ from quicksort2 import quickSort2
 from selectionsort import selectionsort
 from shellsort import shellsort
 
-bubblesort()
-heapsort()
-insertionsort()
-mergesort()
-quicksort1()
-quickSort2()
-selectionsort()
-shellsort()
