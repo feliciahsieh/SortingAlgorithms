@@ -15,8 +15,9 @@ My C sorting algorithms are in a separate GitHub repo.
 
 ## About
 This repository contains sorting algorithms for
-|                |        O() Notation         |
+<p align="center">
 | Algorithm      | Best    | Average |  Worst  |
+| :---: | :---: | :---: | :---: |
 |----------------|---------|---------|---------|
 | [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) | n       |   n^2   |   n^2   |
 | [Heap sort](https://en.wikipedia.org/wiki/Heapsort)      | nlog(n) | nlog(n) | nlog(n) |
@@ -26,6 +27,7 @@ This repository contains sorting algorithms for
 | [Quicksort2 (using python lists)](https://en.wikipedia.org/wiki/Quicksort)    | nlog(n) | nlog(n) | n^2     |
 | [Selection sort](https://en.wikipedia.org/wiki/Selection_sort) | n^2     | n^2     | n^2     |
 | [Shellsort](https://en.wikipedia.org/wiki/Shellsort)     | nlog(n) | depends | n^2     |
+</p>
 
 ## Requirements
 * Ubuntu 14.04 LTS
