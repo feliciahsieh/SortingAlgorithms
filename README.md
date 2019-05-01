@@ -31,7 +31,8 @@ This repository contains 7 sorting algorithms with an extra Quicksort variant. T
 * Ubuntu 14.04 LTS
 * python3 3.4.3
 * pycodestyle 2.4.0 (linter - python)
-* All programs were run on a Vagrant(ubuntu/trusty64) (Virtualbox) environment
+
+All programs were run on a Vagrant(ubuntu/trusty64) (Virtualbox) environment
 
 ## Installation
 In your terminal, git clone the directory with the following command:
