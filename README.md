@@ -43,7 +43,16 @@ git clone https://github.com/feliciahsieh/SortingAlgorithms.git
 ```
 
 ## Usage
-Type the sorting algorithm you want to run in python. All of the programs measure the time it takes for processing the program.
+Type the sorting algorithm you want to run in python. All of the programs measure the time it takes for processing the program using the same list of integers. Currently, each sorting algorithm uses the following as the input.
+```
+[23, 6, 1, 90, 30, 39, 99, 15, 88, 0]
+```
+
+The output will look similar to the following:
+
+<p align="center"><img src="HeapsortExample.png" width="700"></p>
+
+You run each program as follows:
 
 ```
 ./bubblesort.py
