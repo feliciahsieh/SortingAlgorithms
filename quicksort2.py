@@ -19,6 +19,7 @@ def quickSortHelper(alist, first, last):
         print(alist)
     return alist
 
+
 def partition(alist, first, last):
     pivotvalue = alist[first]
 

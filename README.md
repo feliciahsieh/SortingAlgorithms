@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-<p align="center"><img src="SortingAlgorithms.gif" width="500"></p>
+<p align="center"><img src="SortingAlgorithms.gif" width="700"></p>
 
 ## Welcome
 Here are implementations of popular sorting algorithms in python.
