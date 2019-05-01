@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-<p align="center"><img src="SortingAlgorithms.gif" width="300"></p>
+<p align="center"><img src="SortingAlgorithms.gif" width="500"></p>
 
 ## Welcome
 Here are implementations of popular sorting algorithms in python.
@@ -12,21 +12,21 @@ Here are implementations of popular sorting algorithms in python.
 
 ## About
 This repository contains sorting algorithms for
-*bubble sort
+* bubble sort
 
-*heap sort
+* heap sort
 
-*insertion sort
+* insertion sort
 
-*merge sort
+* merge sort
 
-*quicksort1
+* quicksort1
 
-*quicksort2
+* quicksort2
 
-*selection sort
+* selection sort
 
-*shellsort
+* shellsort
 
 ## Requirements
 * Ubuntu 14.04 LTS
