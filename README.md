@@ -3,7 +3,7 @@
 <p align="center"><img src="SortingAlgorithms.gif" width="700"></p>
 
 ## Welcome
-Here are implementations of popular sorting algorithms in python.
+Here are my implementations of popular sorting algorithms in python, which took less time than coding it in C.
 
 ## Table of Contents
 * [About](#about)
@@ -20,9 +20,9 @@ This repository contains sorting algorithms for
 
 * merge sort
 
-* quicksort1
+* quicksort1 (the traditional way)
 
-* quicksort2
+* quicksort2 (using python lists)
 
 * selection sort
 
