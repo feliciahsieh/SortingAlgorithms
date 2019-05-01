@@ -3,7 +3,9 @@
 <p align="center"><img src="SortingAlgorithms.gif" width="700"></p>
 
 ## Welcome
-Here are my implementations of popular sorting algorithms in python. The benefits of Python made it easier, more compact, and faster to code than C. My C sorting algorithms are in a separate GitHub directory.
+Here are my implementations of popular sorting algorithms in python. The benefits of Python made it easier, more compact, and faster to code than C. As each round of sorting happens, the current state is printed to the screen.
+
+My C sorting algorithms are in a separate GitHub repo.
 
 ## Table of Contents
 * [About](#about)
