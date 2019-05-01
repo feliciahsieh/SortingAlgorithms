@@ -25,12 +25,12 @@ This repository contains 7 sorting algorithms with an extra Quicksort variant. T
 | [Quicksort1 (the traditional way)](https://en.wikipedia.org/wiki/Quicksort)    | nlog(n) | nlog(n) | n^2     |
 | [Quicksort2 (using python lists)](https://en.wikipedia.org/wiki/Quicksort)    | nlog(n) | nlog(n) | n^2     |
 | [Selection sort](https://en.wikipedia.org/wiki/Selection_sort) | n^2     | n^2     | n^2     |
-| [Shellsort](https://en.wikipedia.org/wiki/Shellsort)     | nlog(n) | depends | n^2     |
+| [Shellsort](https://en.wikipedia.org/wiki/Shellsort)     | nlog(n) | Depends | n^2     |
 
 ## Requirements
 * Ubuntu 14.04 LTS
 * python3 3.4.3
-* pycodestyle 2.4.0 (linter - python)
+* pycodestyle 2.4.0 (python linter)
 
 All programs were run on a Vagrant(ubuntu/trusty64) (Virtualbox) environment
 
@@ -41,7 +41,7 @@ git clone https://github.com/feliciahsieh/SortingAlgorithms.git
 ```
 
 ## Usage
-Type the sorting algorithm you want to run in python. All of the programs measure the time it takes for processing the program using the same list of integers. Currently, each sorting algorithm uses the following as the input.
+Type the sorting algorithm you want to run in python. All of the programs measure the time it takes for processing the program using the SAME list of integers. Currently, each sorting algorithm uses the following.
 ```
 [23, 6, 1, 90, 30, 39, 99, 15, 88, 0]
 ```
