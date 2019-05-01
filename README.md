@@ -16,8 +16,8 @@ My C sorting algorithms are in a separate GitHub repo.
 ## About
 This repository contains 7 sorting algorithms with an extra Quicksort variant. The Big Oh Notations are added as a general reference, but this is not the definitive table. Big Oh Notations vary depending on the implementation and in some cases can be subjective. YMMV.
 
-| Algorithm      | Best    | Average |  Worst  |
-|:---------------|:--------:|:-------:|:-------:|
+| Algorithm | Best | Average | Worst |
+|:----------|:----:|:-------:|:-----:|
 | [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) | n       |   n^2   |   n^2   |
 | [Heap sort](https://en.wikipedia.org/wiki/Heapsort)      | nlog(n) | nlog(n) | nlog(n) |
 | [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) | n       | n^2     | n^2     |
@@ -50,7 +50,13 @@ The output will look similar to the following:
 
 <p align="center"><img src="HeapsortExample.png" width="700"></p>
 
-You run each program as follows, respectively:
+You run EVERY sorting algorithm once:
+
+```
+./runsort.py
+```
+
+or run EACH sorting algorithm as needed:
 
 ```
 ./bubblesort.py
