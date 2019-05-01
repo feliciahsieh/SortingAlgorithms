@@ -14,6 +14,18 @@ Here are my implementations of popular sorting algorithms in python. The benefit
 ## About
 This repository contains sorting algorithms for
 
+| Algorithm   | O(n) Notation |
+| Name | Best | Average | Worst |
+|-------------|----------------|-----------|
+| Bubble Sort | n | n^2 | n^2 |
+| Heap Sort | nlog(n) | nlog(n) | nlog(n) |
+| Insertion Sort | n | n^2 | n^2 |
+| Merge Sort | n | n^2 | n^2 |
+| Quick Sort1 | nlog(n) | nlog(n) | n^2 |
+| Quick Sort2 | nlog(n) | nlog(n) | n^2 |
+| Selection Sort | n^2 | n^2 | n^2 |
+| Shell Sort | nlog(n) | depends | n^2 |
+
 * [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
 
 * [Heap sort](https://en.wikipedia.org/wiki/Heapsort)
