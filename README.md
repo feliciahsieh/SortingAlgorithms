@@ -15,7 +15,7 @@ My C sorting algorithms are in a separate GitHub repo.
 
 ## About
 This repository contains sorting algorithms for
-
+|                |        O() Notation         |
 | Algorithm      | Best    | Average |  Worst  |
 |----------------|---------|---------|---------|
 | [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) | n       |   n^2   |   n^2   |
