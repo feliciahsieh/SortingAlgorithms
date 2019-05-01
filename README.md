@@ -17,8 +17,7 @@ My C sorting algorithms are in a separate GitHub repo.
 This repository contains sorting algorithms for
 <p align="center">
 | Algorithm      | Best    | Average |  Worst  |
-| :---: | :---: | :---: | :---: |
-|----------------|---------|---------|---------|
+|:--------------:|:--------:|:-------:|:-------:|
 | [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) | n       |   n^2   |   n^2   |
 | [Heap sort](https://en.wikipedia.org/wiki/Heapsort)      | nlog(n) | nlog(n) | nlog(n) |
 | [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) | n       | n^2     | n^2     |
