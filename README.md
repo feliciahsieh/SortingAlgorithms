@@ -28,9 +28,9 @@ This repository contains 7 sorting algorithms with an extra Quicksort variant. T
 | [Shellsort](https://en.wikipedia.org/wiki/Shellsort)     | nlog(n) | Depends | n^2     |
 
 ## Requirements
-* Ubuntu 14.04 LTS
-* python3 3.4.3
-* pycodestyle 2.4.0 (python linter)
+* Ubuntu (v14.04 LTS)
+* Python (v3.4.3)
+* Pycodestyle (v2.4.0) (linter)
 
 All programs were run on a Vagrant(ubuntu/trusty64) (Virtualbox) environment
 
